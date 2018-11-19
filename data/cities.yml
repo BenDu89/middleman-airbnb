@@ -1,0 +1,12 @@
+lisbon:
+  name: 'Le Wagon Lisbon'
+  address: 'cais do sodre'
+  open: true
+paris:
+  name: 'Le Wagon Paris'
+  address: 'eiffel tower'
+  open: false
+london:
+  name: 'Le wagon London'
+  address: 'Lombard street'
+  open: false
